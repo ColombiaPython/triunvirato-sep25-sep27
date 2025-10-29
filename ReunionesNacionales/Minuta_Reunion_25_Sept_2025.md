@@ -20,7 +20,7 @@ Por ello, consideramos fundamental conocer quiénes hacen parte de esta comunida
 
 Para ello, se implementaron unos **diagramas de Venn** que permiten visualizar la evolución de dicha participación y los puntos de intersección entre diferentes grupos.
 
-![Diagrama Venn - Participación comunidad Python Colombia](imagesFigma/Part1.png)
+![Diagrama Venn - Participación comunidad Python Colombia](/imagesFigma/Part1.png)
 
 ---
 
@@ -31,7 +31,7 @@ La representatividad territorial refleja nuestra diversidad y nos orienta hacia 
 
 A través de un **mapa de Colombia con división departamental**, se evidenció que las grandes urbes siguen liderando la participación; sin embargo, las zonas más alejadas presentan una baja representatividad, lo que marca un reto y una oportunidad de expansión.
 
-![Mapa de Colombia - Dónde estamos](imagesFigma/Part2.png)
+![Mapa de Colombia - Dónde estamos](/imagesFigma/Part2.png)
 
 ---
 
@@ -42,9 +42,10 @@ Para ello, se exploraron las **preferencias de participación** de la comunidad 
 
 Estas preguntas se diseñaron con el objetivo de garantizar la renovación y sostenibilidad de los próximos espacios y encuentros.
 
-![Cómo queremos volver](imagesFigma/Part3.png)
+![Cómo queremos volver](/imagesFigma/Part3.png)
 
 **Principales hallazgos:**  
+
 La comunidad desea fortalecerse en la **presencialidad** y la **recurrencia** de los eventos, priorizando formatos cortos que se adapten mejor a la disponibilidad de tiempo de las personas.  
 Asimismo, **WhatsApp** se consolida como el canal preferido para la difusión de información y coordinación de actividades.
 
@@ -58,7 +59,7 @@ Esta sección se abordó a partir de tres preguntas clave:
 
 ### 1. ¿Cómo te imaginas tu comunidad ideal?
 
-![Comunidad ideal](imagesFigma/Part4.png)
+![Comunidad ideal](/imagesFigma/Part4.png)
 
 Algunos de los aspectos más mencionados fueron:
 
@@ -81,7 +82,7 @@ Durante el espacio de conversación se compartieron ideas valiosas, entre ellas:
 
 Este espacio permitió reconocer referentes internacionales e identificar buenas prácticas de las que podemos inspirarnos para fortalecer nuestra comunidad.
 
-![Comunidades admiradas](imagesFigma/Part5.png)
+![Comunidades admiradas](/imagesFigma/Part5.png)
 
 Algunas de las comunidades más mencionadas fueron:
 
@@ -98,7 +99,7 @@ Entre muchas otras que destacan por su impacto, inclusión y trabajo colaborativ
 
 Esta pregunta permitió identificar las debilidades actuales de la comunidad y definir los primeros pasos para superarlas.
 
-![Oportunidades](imagesFigma/Part6.png)
+![Oportunidades](/imagesFigma/Part6.png)
 
 De las aportaciones surgieron tres ejes principales:
 
@@ -113,7 +114,7 @@ De las aportaciones surgieron tres ejes principales:
 Con el objetivo de renovarnos integralmente, el **logo que ha representado a Python Colombia** durante varios años fue sometido a un proceso de rediseño.  
 Después de evaluar nueve propuestas, se seleccionó la versión ganadora, la cual ya hace parte de nuestra imagen actual.
 
-![Logo Python Colombia](imagesFigma/Part7.png)
+![Logo Python Colombia](/imagesFigma/Part7.png)
 
 ---
 
