@@ -38,6 +38,7 @@ Para agregar un nuevo evento al calendario, simplemente añade una nueva fila a 
 
 | Fecha       | Horario | Nombre del Evento | Ciudad | Link |
 | ----------- | ----------- | ----------- | ------ | ------ |
+| Febrero 24 | 18:00 | 🚀 Python Medellín: ¡Primer Meetup Presencial del 2026! 🐍 | Medellín | [Registro](https://www.meetup.com/es-ES/python-medellin/events/313430138/NaRHuXwjEufZPYzaA) |
 | Febrero 25 | 18:00 | Primera Reunión Planeación Python Colombia | Online | [Registro](https://calendar.app.google/NaRHuXwjEufZPYzaA) |
 | Marzo 28 | Todo el día | Django Girls Virtual | Online | [Registro](https://djangogirls.org/colombia-remote) |
 | Abril | Por Definir | PyDay Python Colombia | Por Definir | Pronto |
