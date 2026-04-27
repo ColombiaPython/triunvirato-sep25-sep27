@@ -40,9 +40,13 @@ Para agregar un nuevo evento al calendario, simplemente añade una nueva fila a 
 | ----------- | ----------- | ----------- | ------ | ------ |
 | Febrero 24 | 18:00 | 🚀 Python Medellín: ¡Primer Meetup Presencial del 2026! 🐍 | Medellín | [Registro](https://www.meetup.com/es-ES/python-medellin/events/313430138/NaRHuXwjEufZPYzaA) |
 | Febrero 25 | 18:00 | Primera Reunión Planeación Python Colombia | Online | [Registro](https://calendar.app.google/NaRHuXwjEufZPYzaA) |
+| Marzo 21 | 09:00 | PyLadies Medellín: Mujeres que codifican el futuro | The daily coffee | [Registro](https://tr.ee/4Q5RBU1qH5) |
 | Marzo 28 | Todo el día | Django Girls Virtual | Online | [Registro](https://djangogirls.org/colombia-remote) |
-| Abril | Por Definir | PyDay Python Colombia | Por Definir | Pronto |
-| Mayo 13-19 | Todo el día |PyCon US 2026 | Long Beach, California | [Registro](https://us.pycon.org/es/2026/) |
+| Abril 11 | 09:00 | PyLadies Bucaramanga: Networking, Charlas y Comunidad Python | Auditorio La Casona - UNAB | [Síguenos en Instagram](https://www.instagram.com/pyladiesbga?igsh=ZWp4MDVncmk4anc5) |
+| Abril 18 | 09:00 | PyLadies Cali: Siempre es 8M | UAO | [Registro](http://luma.com/813o4vp8) |
+| Abril 25 | 10:00 | PyLadies Bogotá: Bioquímica, código y Claude | CEFE Chapinero | [Transmisión en Vivo](https://www.youtube.com/live/aHB08odYxAk?si=NRz12FtN1VjBYzQp) | 
+| Mayo 13-19 | Todo el día | PyCon US 2026 | Long Beach, California | [Registro](https://us.pycon.org/es/2026/) |
 | Junio 3 | 18:00 | Segunda Reunión Planeación Python Colombia | Online | [Registro](https://calendar.app.google/1anrgZi886LPwrbGA) |
-| Septiembre | Por Definir | PyDay Python Colombia | Por Definir | Pronto |
+| Junio Finales | Por Definir | PyDay Python Colombia | Por Definir | Pronto |
+| Octubre | Por Definir | PyDay Python Colombia | Por Definir | Pronto |
 | Diciembre 2 | 18:00 | Tercera Reunión Planeación Python Colombia | Online | [Registro](https://calendar.app.google/5UTvRMFgL6pzPKHB6) |
