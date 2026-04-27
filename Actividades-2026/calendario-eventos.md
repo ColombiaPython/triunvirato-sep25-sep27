@@ -44,6 +44,7 @@ Para agregar un nuevo evento al calendario, simplemente añade una nueva fila a 
 | Marzo 28 | Todo el día | Django Girls Virtual | Online | [Registro](https://djangogirls.org/colombia-remote) |
 | Abril 11 | 09:00 | PyLadies Bucaramanga: Networking, Charlas y Comunidad Python | Auditorio La Casona - UNAB | [Síguenos en Instagram](https://www.instagram.com/pyladiesbga?igsh=ZWp4MDVncmk4anc5) |
 | Abril 18 | 09:00 | PyLadies Cali: Siempre es 8M | UAO | [Registro](http://luma.com/813o4vp8) |
+| Abril 18 | 09:00 | PyLadies Medellín: Primer Meetup en el Oriente Antioqueño | Cubo de Innovación, Rionegro | [Evento](https://www.instagram.com/p/DWzC17BiMZu/?igsh=ajJibnZlMW90Ynk0)) |
 | Abril 25 | 10:00 | PyLadies Bogotá: Bioquímica, código y Claude | CEFE Chapinero | [Transmisión en Vivo](https://www.youtube.com/live/aHB08odYxAk?si=NRz12FtN1VjBYzQp) | 
 | Mayo 13-19 | Todo el día | PyCon US 2026 | Long Beach, California | [Registro](https://us.pycon.org/es/2026/) |
 | Junio 3 | 18:00 | Segunda Reunión Planeación Python Colombia | Online | [Registro](https://calendar.app.google/1anrgZi886LPwrbGA) |
