@@ -57,4 +57,4 @@ Para agregar un nuevo evento al calendario, simplemente añade una nueva fila a 
 | Octubre | Por Definir | PyDay Python Colombia | Por Definir | Pronto |
 | Octubre 27 | 18:30 | 🚀 Python Medellín: Meetup | Por Definir | [Registro](https://www.meetup.com/python-medellin/) |
 | Noviembre 24 | 18:30 | 🚀 Python Medellín: Meetup | Por Definir | [Registro](https://www.meetup.com/python-medellin/) |
-| Diciembre 2 | 18:00 | Tercera Reunión Planeación Python Colombia | Online | [Registro](https://calendar.app.google/5UTvRMFgL6pzPKHB6) |
+| Diciembre 2 | 18:00 | Tercera Reunión Planeación Python Colombia | Online | [Registro](https://calendar.app.google/6G84FceEfSZkhJDt5) |
