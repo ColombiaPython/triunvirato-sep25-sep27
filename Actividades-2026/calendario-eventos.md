@@ -48,11 +48,14 @@ Para agregar un nuevo evento al calendario, simplemente añade una nueva fila a 
 | Abril 21 | 18:30 | 🚀 Python Medellín + PyLadies Medellín 🐍 | C4TA - Ciudadela de la Cuarta Revolución y la transformación del aprendizaje | [Registro](https://www.meetup.com/python-medellin/events/314326789/) |
 | Abril 25 | 10:00 | PyLadies Bogotá: Bioquímica, código y Claude | CEFE Chapinero | [Transmisión en Vivo](https://www.youtube.com/live/aHB08odYxAk?si=NRz12FtN1VjBYzQp) | 
 | Mayo 13-19 | Todo el día | PyCon US 2026 | Long Beach, California | [Registro](https://us.pycon.org/es/2026/) |
-| Mayo 26 | 18:30 | 🚀 Python Medellín: Meetup | Por Definir | [Registro](https://www.meetup.com/python-medellin/) |
+| Mayo 26 | 18:30 | 🚀 Python Medellín: Meetup | Oficinas de EPAM (Edificio FIC 48) | [Registro](https://www.meetup.com/es-es/python-medellin/events/314754831/) |
 | Junio 3 | 18:00 | Segunda Reunión Planeación Python Colombia | Online | [Registro](https://calendar.app.google/1anrgZi886LPwrbGA) |
-| Junio 23 | 18:30 | 🚀 Python Medellín: Meetup | Por Definir | [Registro](https://www.meetup.com/python-medellin/) |
-| Junio Finales | Por Definir | PyDay Python Colombia | Por Definir | Pronto |
+| Junio 30 | 18:30 | 🚀 Python Medellín: Meetup | Universidad Nacional de Colombia - Sede el Volador Medellín | [Registro](https://www.meetup.com/python-medellin/events/315106490/) |
+| Julio 28 | 18:30 | PyFusión: Cali x Medellín | Online | [Registro](https://www.meetup.com/python-medellin/) |
+| Agosto 20-23 | Todo el día | PyLatam 2026 | Turrialba, Costa Rica | [Registro](https://pylatam.org/) |
 | Agosto 25 | 18:30 | 🚀 Python Medellín: Meetup | Por Definir | [Registro](https://www.meetup.com/python-medellin/) |
+| Septiembre 11 | Todo el día | Django Girls Boyacá | Boyacá | [Registro](https://djangogirls.org/boyaca) |
+| Septiembre 12 | Por Definir | PyDay Boyacá | Online/Boyacá | Pronto |
 | Septiembre 29 | 18:30 | 🚀 Python Medellín: Meetup | Por Definir | [Registro](https://www.meetup.com/python-medellin/) |
 | Octubre | Por Definir | PyDay Python Colombia | Por Definir | Pronto |
 | Octubre 27 | 18:30 | 🚀 Python Medellín: Meetup | Por Definir | [Registro](https://www.meetup.com/python-medellin/) |
